@@ -176,9 +176,10 @@ section.contacto{
 }
 
 .contacto h2 {
-  font-size: 4.5em;
+  font-size: 3.5em;
   margin: 2rem;
   font-family: 'Quicksand', sans-serif;
+ 
 }
 
 .contacto form{
