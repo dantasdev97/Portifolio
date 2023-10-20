@@ -240,6 +240,74 @@ form textarea:focus{
      border-radius: 16px;
  }
 
- 
+ /*confuguracoes do footer */
 
+ .main-footer{
+    width: 100%;
+    height: 40vh;
+    background-color: black;
+    color: white;
 
+ }
+
+ .container-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 0;
+    max-width: 120rem;
+    margin: auto;
+    width: 80%;
+ }
+
+.footer-eu{
+    width: 40%;
+    order: 1;
+    max-width: 50rem;
+}
+
+.texto-footer{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.texto-footer{
+    margin-top: 2rem;
+    color: #eee;
+    font-size: 1rem;
+    line-height: 1.7;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.midias-1{
+    color: white;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.imgens-midias{
+    margin-top:2rem;
+}
+
+.social-media-footer{
+    order: 2;
+    margin-top: 30px;
+}
+
+.icones-imagem{
+    
+    margin-right: 1rem;
+    width: 2.5rem;
+}
+
+.Copyright{
+    padding: 2rem 0;
+    border-top: 1px solid #444;
+    color: #eee;
+    font-size: 1.2rem;
+    text-align: left;
+    text-align: center;
+}
