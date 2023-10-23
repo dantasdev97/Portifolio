@@ -12,7 +12,8 @@
 
 
 .inicio-conteudo{
-    background: linear-gradient(to right,rgb(70, 70, 70),rgba(245,245,245,.8)),url(#);
+    background-image: url(../imagens/pexels-henry-&-co-1939485.jpg);
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
